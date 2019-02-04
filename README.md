@@ -7,7 +7,7 @@ Olaplite is ideally suited to financial reporting but can be used for any applic
 
 Currently Olaplite is free to use but not open source.
 
-* [Binary releases](/Olaplite/Olaplite.Xll/releases)
+* [Binary releases](https://github.com/Olaplite/Olaplite.Xll/releases)
 
 ## External links
 
